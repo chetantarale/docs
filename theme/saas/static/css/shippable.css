@@ -423,3 +423,18 @@ menu,ol,ul {
 a {
   cursor: pointer;
 }
+
+.hidesection {
+  display: none
+}
+
+.showsection {
+  display: block
+}
+
+
+#navhead {
+  position: absolute !important;
+  left: 50% !important;
+  transform: translatex(-50%);
+}
